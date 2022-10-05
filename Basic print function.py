@@ -1,4 +1,4 @@
-#Python Program that will display your name, Course, and school.
+# Simple Python Program that will display your name, Course, and school.
 
 list = ["Your Name", "Your Course", "Your School"]
 
