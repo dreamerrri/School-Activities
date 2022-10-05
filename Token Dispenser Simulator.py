@@ -1,4 +1,5 @@
 # A program that emulates a Token Dispenser.
+# This was horrible, but a worth it experience nonetheless.
 
 token = int(input("Enter token stocks: "))
 dispense = int(input("How many do you wish to dispense?: "))
