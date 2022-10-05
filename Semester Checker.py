@@ -1,10 +1,10 @@
-#Determines if a student passed the Semester.
-#A program that will ask for the name of the student, grade for Math, grade for Science, Grade for English.
-#Computes for the average grade.
-#Determines if the student  passed the semester. (4points)
-#- if average is equal or more than 75, the student passed the semester. Otherwise failed.
-#- also determines if the students has a back subject.
-#Could use some work
+# Determines if a student passed the Semester.
+# A program that will ask for the name of the student, grade for Math, grade for Science, Grade for English.
+# Computes for the average grade.
+# Determines if the student  passed the semester. (4points)
+# -if average is equal or more than 75, the student passed the semester. Otherwise failed.
+# -also determines if the students has a back subject.
+# Could use some work and optimization.
 
 Name = input("Enter Student Name: ")
 Math = float(input("Enter Math Grade: "))
