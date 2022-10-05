@@ -1,6 +1,6 @@
-#Program that will ask for the number of class held and numbers class attended by the student.
-#Computes for the percentage of class attendance and displays the result.
-#Determines if the student is allowed take the exam or not. 
+# A Program that will ask for the number of class held and numbers class attended by the student.
+# Computes for the percentage of class attendance and displays the result.
+# Determines if the student is allowed take the exam or not. 
 
 Cls = float(input("Enter number of classes held: "))
 Atn = float(input("Enter number of classes attended by the student: "))
