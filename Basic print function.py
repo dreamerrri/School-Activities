@@ -1,6 +1,6 @@
-#Write a python Program that will display your name, Course, and school.
+#Python Program that will display your name, Course, and school.
 
-list = ["Renz Andrew S. Ebreo", "Bachelor of Science in Information Technology", "PHINMA AU"]
+list = ["Your Name", "Your Course", "Your School"]
 
 print = ("Name: ", list[0])
 print = ("Course: ", list[1])
